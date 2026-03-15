@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Daniil Nazarenko</h1>
-<h3 align="center">Java developer from Ukraine, Kyiv</h3>
+<h1 align="center">I’m Daniil, a backend developer and automator in Web3.</h1>
+<h3 align="center">Developer from Ukraine, Kyiv</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniilrs&label=Profile%20views&color=0e75b6&style=flat" alt="daniilrs" /> </p>
 
 
