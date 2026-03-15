@@ -1,9 +1,9 @@
 <h1 align="center">I’m Daniil, a backend developer and automator in Web3.</h1>
-<h3 align="center">Developer from Ukraine, Kyiv</h3>
+<h3 align="center">Developer from Ukraine</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniilrs&label=Profile%20views&color=0e75b6&style=flat" alt="daniilrs" /> </p>
 
 
-- 💬 Ask me about **MySQL, Spring, Java**
+- 💬 Ask me about **MySQL, Backend, Linux**
 
 - 📫 How to reach me **nazarenkod013@gmail.com**
 
