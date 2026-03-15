@@ -42,8 +42,8 @@ I’ve been coding since I was 15, building tools, bots, and infrastructure for 
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=daniilRS&show_icons=true&theme=tokyonight)
 
 ![GitHub streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniilRS&layout=compact&theme=tokyonight)
